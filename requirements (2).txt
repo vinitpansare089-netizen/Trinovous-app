@@ -1,6 +1,0 @@
-streamlit
-pymongo
-dnspython
-pandas
-numpy
-matplotlib
