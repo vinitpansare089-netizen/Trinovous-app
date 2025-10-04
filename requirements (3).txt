@@ -1,0 +1,6 @@
+streamlit
+pymongo[srv]
+dnspython
+pandas
+numpy
+matplotlib
